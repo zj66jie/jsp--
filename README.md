@@ -1,23 +1,5 @@
-# 02-tabble
+# jsp网上评教系统
 
-## Project setup
-```
-npm install
-```
-
-<<<<<<< HEAD
-=======
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
-# jsp--online-evoaluation-of-teaching
->>>>>>> 42816a2... first commit
+## 图片示例如下，有管理员，学生，教师三种账号切换
+![](https://github.com/zj66jie/jsppp/raw/master/1.png) 
+![](https://github.com/zj66jie/jsppp/raw/master/2.png) 
